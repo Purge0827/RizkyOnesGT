@@ -2,7 +2,6 @@
 ------
 ```
 🗒️  Name : Rizky
-
 💬 Discord : RizkyOnes#5818
 
 🌏 Live : Indonesia - Batam
