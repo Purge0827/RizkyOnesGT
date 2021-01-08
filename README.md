@@ -1,7 +1,11 @@
 ## 👋 | Welcome To My Repositories | 👋
 ------
-🗒️  Name : Rizky
+```🗒️  Name : Rizky
+
 💬 Discord : RizkyOnes#5818
+
 🌏 Live : Indonesia - Batam
-🎥 Youtube : RizkyOnesXD
+
+🎥 Youtube : RizkyOnesXD```
+
 ------
